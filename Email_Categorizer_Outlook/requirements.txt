@@ -1,0 +1,4 @@
+# Add your Python dependencies here, for example:
+# pywin32
+# pandas
+# numpy
